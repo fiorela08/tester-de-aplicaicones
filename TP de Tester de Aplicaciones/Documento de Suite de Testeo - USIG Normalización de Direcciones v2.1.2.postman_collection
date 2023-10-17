@@ -1,0 +1,1745 @@
+{
+	"info": {
+		"_postman_id": "770cdc64-5ad4-4caa-a4b3-efa7909f2c99",
+		"name": "Documento de Suite de Testeo - USIG Normalización de Direcciones v2.1.2",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "29172467"
+	},
+	"item": [
+		{
+			"name": "1 - Normalización de Dirección calle y calle, CABA",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=medrano%20y%20corrientes,%20caba",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "medrano%20y%20corrientes,%20caba"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "1.1 - Normalización de Dirección calle y calle, CABA",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=independencia%20y%20boedo,%20caba",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "independencia%20y%20boedo,%20caba"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "1.2 - Normalización de Dirección calle y calle, CABA",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=corrientes%20y%20pueyrredon,%20caba",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "corrientes%20y%20pueyrredon,%20caba"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "1.3 - Normalización de Dirección calle y calle, CABA",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=jujuy%20y%20caseros,%20caba",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "jujuy%20y%20caseros,%20caba"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "1.4 - Normalización de Dirección calle y calle, CABA",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=directorio%20y%20carabobo,%20caba",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "directorio%20y%20carabobo,%20caba"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "2 - Normalización de Dirección calle y calle, AMBA",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=meeks%20y%20garibaldi,%20lomas%20de%20zamora",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "meeks%20y%20garibaldi,%20lomas%20de%20zamora"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "2.1 - Normalización de Dirección calle y calle, AMBA",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=japon%20y%20monteverde,%20burzaco",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "japon%20y%20monteverde,%20burzaco"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "2.2 - Normalización de Dirección calle y calle, AMBA",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=sarandi%20y%20australia,%20la%20matanza",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "sarandi%20y%20australia,%20la%20matanza"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "2.3 - Normalización de Dirección calle y calle, AMBA",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=lavalle%20y%20francia,%20lujanhttps://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=lavalle%20y%20francia,%20lujan",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "lavalle%20y%20francia,%20lujanhttps://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=lavalle%20y%20francia,%20lujan"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "2.4 - Normalización de Dirección calle y calle, AMBA",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=italia%20y%20sarmiento,%20tigre",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "italia%20y%20sarmiento,%20tigre"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "3 - Normalización de Dirección calle y calle",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=goya%20y%20newton,%20",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "goya%20y%20newton,%20"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "3.1 - Normalización de Dirección calle y calle",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=guido%20y%20alvear,%20",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "guido%20y%20alvear,%20"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "3.2 - Normalización de Dirección calle y calle",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=lavalle%20y%20francia,%20",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "lavalle%20y%20francia,%20"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "3.3 - Normalización de Dirección calle y calle",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=bolivia%20y%20viamonte",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "bolivia%20y%20viamonte"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "3.4 - Normalización de Dirección calle y calle",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=granaderos%20y%20arenales",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "granaderos%20y%20arenales"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "4 - Normalización de Dirección calle&maxOptions=",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=avenida&maxOptions=25",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "avenida"
+						},
+						{
+							"key": "maxOptions",
+							"value": "25"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "4.1 - Normalización de Dirección calle&maxOptions=",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=san&maxOptions=25",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "san"
+						},
+						{
+							"key": "maxOptions",
+							"value": "25"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "4.2 - Normalización de Dirección calle&maxOptions=",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=int&maxOptions=10",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "int"
+						},
+						{
+							"key": "maxOptions",
+							"value": "10"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "4.3 - Normalización de Dirección calle&maxOptions=",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=ne&maxOptions=10",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "ne"
+						},
+						{
+							"key": "maxOptions",
+							"value": "10"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "4.4 - Normalización de Dirección calle&maxOptions=",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=e&maxOptions=5",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "e"
+						},
+						{
+							"key": "maxOptions",
+							"value": "5"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "5 - Normalización de Dirección calle y calle&geocodificar=TRUE",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=plata%20y%20san&geocodificar=TRUE",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "plata%20y%20san"
+						},
+						{
+							"key": "geocodificar",
+							"value": "TRUE"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "5.1 - Normalización de Dirección calle y calle&geocodificar=TRUE",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=medrano%20y%20an&geocodificar=TRUE",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "medrano%20y%20an"
+						},
+						{
+							"key": "geocodificar",
+							"value": "TRUE"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "5.2 - Normalización de Dirección calle y calle&geocodificar=TRUE",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=YRIGOYEN%20y%20an&geocodificar=TRUE",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "YRIGOYEN%20y%20an"
+						},
+						{
+							"key": "geocodificar",
+							"value": "TRUE"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "5.3 - Normalización de Dirección calle y calle&geocodificar=TRUE",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=rojas%20y%20to&geocodificar=TRUE",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "rojas%20y%20to"
+						},
+						{
+							"key": "geocodificar",
+							"value": "TRUE"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "5.4 - Normalización de Dirección calle y calle&geocodificar=TRUE",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=sarmiento%20y%20le&geocodificar=TRUE",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "sarmiento%20y%20le"
+						},
+						{
+							"key": "geocodificar",
+							"value": "TRUE"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "6 - Normalización de Dirección calle e calle",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=colon%20e%20ituzaingo",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "colon%20e%20ituzaingo"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "6.1 - Normalización de Dirección calle e calle",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=avellaneda%20e%20ibarrola",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "avellaneda%20e%20ibarrola"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "6.2 - Normalización de Dirección calle e calle",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=rosita%20e%20iba%C3%B1ez",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "rosita%20e%20iba%C3%B1ez"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "6.3 - Normalización de Dirección calle e calle",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=cerrito%20e%20iguazu",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "cerrito%20e%20iguazu"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "6.4 - Normalización de Dirección calle e calle",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=pardo%20e%20irlanda",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "pardo%20e%20irlanda"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "7 - Normalización de Dirección calle nro., CABA O AMBA",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=peru%20130,caba",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "peru%20130,caba"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "7.1 - Normalización de Dirección calle nro., CABA O AMBA",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=sarmiento%201412,caba",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "sarmiento%201412,caba"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "7.2 - Normalización de Dirección calle nro., CABA O AMBA",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=einstein%204085,lomas%20de%20zamora",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "einstein%204085,lomas%20de%20zamora"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "7.3 - Normalización de Dirección calle nro., CABA O AMBA",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=goya%20997,lomas%20de%20zamora",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "goya%20997,lomas%20de%20zamora"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "7.4 - Normalización de Dirección calle nro., CABA O AMBA",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=colombres%201050%20,%20caba",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "colombres%201050%20,%20caba"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "8 - Normalización de Dirección calle nro.",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=colombres%1050",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "colombres%1050"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "8.1 - Normalización de Dirección calle nro.",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=goya%997",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "goya%997"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "8.2 - Normalización de Dirección calle nro.",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=einstein%4085",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "einstein%4085"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "8.3 - Normalización de Dirección calle nro.",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=sarmiento%1412",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "sarmiento%1412"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "8.4 - Normalización de Dirección calle nro.",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=peru%20130",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "direccion",
+							"value": "peru%20130"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "9 - Normalización de Dirección -lng & -lat",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?lng=-58.3927352666796&lat=-34.6098236",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "lng",
+							"value": "-58.3927352666796"
+						},
+						{
+							"key": "lat",
+							"value": "-34.6098236"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "9.1 - Normalización de Dirección -lng & -lat",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?lng=-58.435104&lat=-34.615689",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "lng",
+							"value": "-58.435104"
+						},
+						{
+							"key": "lat",
+							"value": "-34.615689"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "9.2 - Normalización de Dirección -lng & -lat",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?lng=-58.39836111&lat=-34.59822222",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "lng",
+							"value": "-58.39836111"
+						},
+						{
+							"key": "lat",
+							"value": "-34.59822222"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "9.3 - Normalización de Dirección -lng & -lat",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?lng=-58.38233&lat=-34.6171",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "lng",
+							"value": "-58.38233"
+						},
+						{
+							"key": "lat",
+							"value": "-34.6171"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "9.4 - Normalización de Dirección -lng & -lat",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?lng=-58.468024&lat=-34.659628",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "lng",
+							"value": "-58.468024"
+						},
+						{
+							"key": "lat",
+							"value": "-34.659628"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "10 - Normalización de Dirección -lng & -lat &tipoResultado=calle_y_calle",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?lng=-58.4589195&lat=-34.5877631&tipoResultado=guzman_y_maure",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "lng",
+							"value": "-58.4589195"
+						},
+						{
+							"key": "lat",
+							"value": "-34.5877631"
+						},
+						{
+							"key": "tipoResultado",
+							"value": "guzman_y_maure"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "10.1 - Normalización de Dirección -lng & -lat &tipoResultado=calle_y_calle",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?lng=-58.4102651&lat=-34.5692794&tipoResultado=sarmiento_y_caseres",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "lng",
+							"value": "-58.4102651"
+						},
+						{
+							"key": "lat",
+							"value": "-34.5692794"
+						},
+						{
+							"key": "tipoResultado",
+							"value": "sarmiento_y_caseres"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "10.2 - Normalización de Dirección -lng & -lat &tipoResultado=calle_y_calle",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?lng=-58.4179029&lat=-34.5827416&tipoResultado=las%20heras_y_arabe%20siria",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "lng",
+							"value": "-58.4179029"
+						},
+						{
+							"key": "lat",
+							"value": "-34.5827416"
+						},
+						{
+							"key": "tipoResultado",
+							"value": "las%20heras_y_arabe%20siria"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "10.3 - Normalización de Dirección -lng & -lat &tipoResultado=calle_y_calle",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?lng=-58.4369989&lat=-34.6082575&tipoResultado=diaz%20velez_y_patricias%20argentina",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "lng",
+							"value": "-58.4369989"
+						},
+						{
+							"key": "lat",
+							"value": "-34.6082575"
+						},
+						{
+							"key": "tipoResultado",
+							"value": "diaz%20velez_y_patricias%20argentina"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "10.4 - Normalización de Dirección -lng & -lat &tipoResultado=calle_y_calle",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?lng=-58.4142612&lat=-34.6223943&tipoResultado=sanche%20de%20loria_y_estados%20unidos",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "lng",
+							"value": "-58.4142612"
+						},
+						{
+							"key": "lat",
+							"value": "-34.6223943"
+						},
+						{
+							"key": "tipoResultado",
+							"value": "sanche%20de%20loria_y_estados%20unidos"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "11 - Normalización de Dirección -lng & -lat &tipoResultado=calle_altura",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?lng=-58.39836111&lat=-34.59822222&tipoResultado=paraguay_2155",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "lng",
+							"value": "-58.39836111"
+						},
+						{
+							"key": "lat",
+							"value": "-34.59822222"
+						},
+						{
+							"key": "tipoResultado",
+							"value": "paraguay_2155"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "11.1 - Normalización de Dirección -lng & -lat &tipoResultado=calle_altura",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?lng=-58.4614382&lat=-34.775549&tipoResultado=ruta_4km",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "lng",
+							"value": "-58.4614382"
+						},
+						{
+							"key": "lat",
+							"value": "-34.775549"
+						},
+						{
+							"key": "tipoResultado",
+							"value": "ruta_4km"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "11.2 - Normalización de Dirección -lng & -lat &tipoResultado=calle_altura",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?lng=-58.3945545&lat=-34.5826255&tipoResultado=Av.%20Pres.%20Figueroa%20Alcorta%202263,%20C1425%20CABA",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "lng",
+							"value": "-58.3945545"
+						},
+						{
+							"key": "lat",
+							"value": "-34.5826255"
+						},
+						{
+							"key": "tipoResultado",
+							"value": "Av.%20Pres.%20Figueroa%20Alcorta%202263,%20C1425%20CABA"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "11.3 - Normalización de Dirección -lng & -lat &tipoResultado=calle_altura",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?lng=-58.4007289&lat=-34.5888009&tipoResultado=junin_1760",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "lng",
+							"value": "-58.4007289"
+						},
+						{
+							"key": "lat",
+							"value": "-34.5888009"
+						},
+						{
+							"key": "tipoResultado",
+							"value": "junin_1760"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "11.4 - Normalización de Dirección -lng & -lat &tipoResultado=calle_altura",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicios.usig.buenosaires.gob.ar/normalizar/?lng=-58.4589195&lat=-34.5877631&tipoResultado=guzman_680",
+					"protocol": "https",
+					"host": [
+						"servicios",
+						"usig",
+						"buenosaires",
+						"gob",
+						"ar"
+					],
+					"path": [
+						"normalizar",
+						""
+					],
+					"query": [
+						{
+							"key": "lng",
+							"value": "-58.4589195"
+						},
+						{
+							"key": "lat",
+							"value": "-34.5877631"
+						},
+						{
+							"key": "tipoResultado",
+							"value": "guzman_680"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
